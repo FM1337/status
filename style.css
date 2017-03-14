@@ -703,11 +703,13 @@ hr {
     border-top: .3rem solid #f4f5f6
 }
 h4 {
-    padding-top: 3rem
+    padding-top: 3rem;
+    color: white;
 }
 .incident .title {
     font-size: 2rem;
-    font-weight: 700
+    font-weight: 700;
+    color: white;
 }
 #main {
     padding-top: 8.5rem
@@ -726,5 +728,6 @@ h4 {
 }
 .incident .date {
     font-size: 2rem;
-    font-weight: 700
+    font-weight: 700;
+    color: white;
 }
