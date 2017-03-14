@@ -611,7 +611,9 @@ img {
     padding-bottom: 0
 }
 .footer p {
-    font-size: 1.3rem
+    font-size: 1.3rem;
+    color: white;
+    text-align: center;
 }
 .navigation {
     left: 0;
