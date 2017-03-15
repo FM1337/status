@@ -671,7 +671,8 @@ img {
 }
 ul.systems {
     border: .1rem solid #e1e1e1;
-    border-radius: .5rem
+    border-radius: .5rem;
+    background-color: #383838;
 }
 ul.systems>li {
     list-style: none;
